@@ -1,4 +1,3 @@
-# ptam_cg
 
 [![Join the chat at https://gitter.im/ptam_cg_01/Lobby](https://badges.gitter.im/ptam_cg_01/Lobby.svg)](https://gitter.im/ptam_cg_01/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Documentation](https://codedocs.xyz/GaoHongchen/PTAM4AR.svg)](https://codedocs.xyz/GaoHongchen/PTAM4AR/) [![Build Status](https://travis-ci.org/cggos/ptam_cg.svg?branch=master)](https://travis-ci.org/cggos/ptam_cg) [![Coverage Status](https://coveralls.io/repos/github/cggos/ptam_cg/badge.svg?branch=master)](https://coveralls.io/github/cggos/ptam_cg?branch=master)
 
